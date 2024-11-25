@@ -2,54 +2,56 @@ import cv2
 import numpy as np  
 from keras.models import load_model  
 
-# 加载训练好的模型  
-model = load_model('path_to_your_model.h5')  
+# Load exist model
+model = load_model('PATH_TO_THE_MODEL')  
 
-# 初始化摄像头  
+# Initial camera
 cap = cv2.VideoCapture(0)  
 
-# 加载Haar Cascade人脸检测模型  
-face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')  
+# Load Haar Cascade model
+face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')  
 
-# 开始视频流  
+# Start video stream
 while True:  
     ret, frame = cap.read()  
     if not ret:  
         continue  
 
-    # 将捕获的帧转换为灰度图  
+    # Turn captured frame to grayscale images
     gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)  
 
-    # 检测人脸  
+    # Detect human face
     faces = face_cascade.detectMultiScale(gray, 1.3, 5)  
 
     for (x, y, w, h) in faces:  
-        # 在检测到的人脸周围画一个矩形  
+        # Draw a rectangle around the detected face
         cv2.rectangle(frame, (x, y), (x+w, y+h), (255, 0, 0), 2)  
 
-        # 提取脸部区域并调整大小  
+        # Extract the face area and resize it
         face = gray[y:y+h, x:x+w]  
         face = cv2.resize(face, (48, 48))  
 
-        # 预处理图像（归一化）  
+        # Preprocess the image (normalize)
         face = face / 255.0  
-        face = np.expand_dims(face, axis=0)  
-        face = np.expand_dims(face, axis=-1)  # 将形状调整为 (1, 48, 48, 1)  
+        face = np.stack((face,)*3, axis=-1)
+        face = np.expand_dims(face, axis=0) 
 
-        # 预测情感  
+        # Predicting emotions
         emotion_prediction = model.predict(face)  
-        emotion_label = np.argmax(emotion_prediction)  # 得到预测的情感标签  
+        emotion_label = np.argmax(emotion_prediction)  # Get predicted sentiment labels
+        
+        names = ['anger','contempt','disgust','fear','happy','sadness','surprise']
 
-        # 在图像上显示预测的情感  
-        cv2.putText(frame, f'Emotion: {emotion_label}', (x, y-10), cv2.FONT_HERSHEY_SIMPLEX, 0.9, (36, 255, 12), 2)  
+        # Display predicted sentiment on images
+        cv2.putText(frame, f'Emotion: {names[emotion_label]}', (x, y-10), cv2.FONT_HERSHEY_SIMPLEX, 0.9, (36, 255, 12), 2)  
 
-    # 显示结果帧  
+    # Display
     cv2.imshow('Emotion Recognition', frame)  
 
-    # 按 'q' 键退出  
+    # Press 'q' to exist
     if cv2.waitKey(1) & 0xFF == ord('q'):  
         break  
 
-# 释放摄像头并关闭所有窗口  
+# Release the camera and close all windows
 cap.release()  
 cv2.destroyAllWindows()
