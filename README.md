@@ -42,7 +42,6 @@ python emotion_recognition.py
 
 Please be aware that the case study topics may vary each year. Wishing all students a successful graduation in their senior year!
 
-你们好，BDICer
 
 这个存储库用于com3025j ARVR案例研究代码，它可以在jupyter notebook的ptyhon环境中运行。
 
@@ -52,4 +51,4 @@ Please be aware that the case study topics may vary each year. Wishing all stude
 
 这个模型是由Kaggle训练的模型，环境是kaggle自带的，具体环境不清楚
 
-但请注意，case study的题目每一年都不是相同的，希望各位在大四一年顺利毕业！
+
