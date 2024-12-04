@@ -5,13 +5,13 @@ This repository is for the COMP3025J ARVR case study code, which can run in a Py
 ## Model Information  
 
 - The model is in the format of a Jupyter Notebook (`.ipynb` file).   
-- Users need to open this file with Jupyter Notebook or another IDE.  
+- Users need to open this file with Jupyter Notebook or another IDE（Vs code or Pycharm).  
 - You will also need to install the OpenCV (CV2) library to run the code.  
 
 ### Pre-trained Model  
 
 - The file `model_keras_2.h5` is the finished model that can be used for predictions.  
-- This model was trained using Kaggle. You can find the notebook [here](https://www.kaggle.com/code/moonquakemiao/dcnn-for-emotion-dection).  
+- This model was trained using Kaggle. You can find the notebook [here]((https://www.kaggle.com/code/moonquakemiao/deep-cnn-for-fer-git-on-comments)).  
 
 ## How to run
 
