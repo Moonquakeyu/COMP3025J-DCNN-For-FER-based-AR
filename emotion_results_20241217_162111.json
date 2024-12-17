@@ -1,0 +1,832 @@
+[
+    {
+        "timestamp": "2024-12-17 16:21:11",
+        "frame_number": 1,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:12",
+        "frame_number": 11,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:12",
+        "frame_number": 21,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:13",
+        "frame_number": 31,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:13",
+        "frame_number": 41,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:14",
+        "frame_number": 51,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:14",
+        "frame_number": 61,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:15",
+        "frame_number": 71,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:16",
+        "frame_number": 101,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:17",
+        "frame_number": 121,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:17",
+        "frame_number": 131,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:18",
+        "frame_number": 141,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:18",
+        "frame_number": 151,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:19",
+        "frame_number": 161,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:20",
+        "frame_number": 201,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:20",
+        "frame_number": 201,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:21",
+        "frame_number": 251,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:22",
+        "frame_number": 261,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:22",
+        "frame_number": 271,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:24",
+        "frame_number": 321,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:24",
+        "frame_number": 331,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:25",
+        "frame_number": 341,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:25",
+        "frame_number": 361,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:26",
+        "frame_number": 371,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:26",
+        "frame_number": 391,
+        "emotion": "happy"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:27",
+        "frame_number": 411,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:28",
+        "frame_number": 421,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:28",
+        "frame_number": 431,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:30",
+        "frame_number": 461,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:30",
+        "frame_number": 471,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:31",
+        "frame_number": 481,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:32",
+        "frame_number": 521,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:33",
+        "frame_number": 571,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:34",
+        "frame_number": 591,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:35",
+        "frame_number": 601,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:36",
+        "frame_number": 621,
+        "emotion": "happy"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:36",
+        "frame_number": 631,
+        "emotion": "happy"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:37",
+        "frame_number": 641,
+        "emotion": "happy"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:37",
+        "frame_number": 651,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:38",
+        "frame_number": 661,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:39",
+        "frame_number": 681,
+        "emotion": "happy"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:39",
+        "frame_number": 681,
+        "emotion": "surprise"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:40",
+        "frame_number": 701,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:41",
+        "frame_number": 731,
+        "emotion": "happy"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:42",
+        "frame_number": 741,
+        "emotion": "happy"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:44",
+        "frame_number": 791,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:44",
+        "frame_number": 801,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:45",
+        "frame_number": 811,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:45",
+        "frame_number": 821,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:46",
+        "frame_number": 831,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:46",
+        "frame_number": 841,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:47",
+        "frame_number": 851,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:48",
+        "frame_number": 861,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:48",
+        "frame_number": 871,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:49",
+        "frame_number": 881,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:49",
+        "frame_number": 891,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:50",
+        "frame_number": 901,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:50",
+        "frame_number": 911,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:51",
+        "frame_number": 921,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:52",
+        "frame_number": 931,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:52",
+        "frame_number": 941,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:53",
+        "frame_number": 951,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:53",
+        "frame_number": 961,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:54",
+        "frame_number": 971,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:54",
+        "frame_number": 981,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:55",
+        "frame_number": 991,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:56",
+        "frame_number": 1001,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:56",
+        "frame_number": 1011,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:57",
+        "frame_number": 1021,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:57",
+        "frame_number": 1031,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:58",
+        "frame_number": 1041,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:59",
+        "frame_number": 1051,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:21:59",
+        "frame_number": 1061,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:00",
+        "frame_number": 1071,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:00",
+        "frame_number": 1081,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:01",
+        "frame_number": 1091,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:01",
+        "frame_number": 1101,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:02",
+        "frame_number": 1121,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:03",
+        "frame_number": 1131,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:03",
+        "frame_number": 1141,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:04",
+        "frame_number": 1161,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:05",
+        "frame_number": 1171,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:05",
+        "frame_number": 1181,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:06",
+        "frame_number": 1191,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:07",
+        "frame_number": 1201,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:07",
+        "frame_number": 1211,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:08",
+        "frame_number": 1221,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:08",
+        "frame_number": 1231,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:09",
+        "frame_number": 1241,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:10",
+        "frame_number": 1281,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:11",
+        "frame_number": 1301,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:12",
+        "frame_number": 1341,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:12",
+        "frame_number": 1351,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:13",
+        "frame_number": 1361,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:13",
+        "frame_number": 1371,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:14",
+        "frame_number": 1381,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:15",
+        "frame_number": 1391,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:15",
+        "frame_number": 1401,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:16",
+        "frame_number": 1411,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:16",
+        "frame_number": 1421,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:17",
+        "frame_number": 1431,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:17",
+        "frame_number": 1441,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:18",
+        "frame_number": 1451,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:18",
+        "frame_number": 1461,
+        "emotion": "happy"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:18",
+        "frame_number": 1471,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:19",
+        "frame_number": 1481,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:20",
+        "frame_number": 1501,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:20",
+        "frame_number": 1511,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:20",
+        "frame_number": 1511,
+        "emotion": "surprise"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:21",
+        "frame_number": 1521,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:21",
+        "frame_number": 1531,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:23",
+        "frame_number": 1591,
+        "emotion": "happy"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:24",
+        "frame_number": 1601,
+        "emotion": "surprise"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:24",
+        "frame_number": 1621,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:25",
+        "frame_number": 1631,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:26",
+        "frame_number": 1661,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:27",
+        "frame_number": 1691,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:28",
+        "frame_number": 1701,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:28",
+        "frame_number": 1711,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:30",
+        "frame_number": 1741,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:30",
+        "frame_number": 1751,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:31",
+        "frame_number": 1761,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:31",
+        "frame_number": 1771,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:32",
+        "frame_number": 1781,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:34",
+        "frame_number": 1841,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:34",
+        "frame_number": 1851,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:35",
+        "frame_number": 1871,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:36",
+        "frame_number": 1881,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:37",
+        "frame_number": 1911,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:37",
+        "frame_number": 1921,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:38",
+        "frame_number": 1931,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:38",
+        "frame_number": 1941,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:39",
+        "frame_number": 1951,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:39",
+        "frame_number": 1961,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:40",
+        "frame_number": 1971,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:40",
+        "frame_number": 1981,
+        "emotion": "happy"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:41",
+        "frame_number": 2001,
+        "emotion": "fear"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:42",
+        "frame_number": 2011,
+        "emotion": "surprise"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:42",
+        "frame_number": 2031,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:42",
+        "frame_number": 2041,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:43",
+        "frame_number": 2051,
+        "emotion": "happy"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:43",
+        "frame_number": 2061,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:44",
+        "frame_number": 2071,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:45",
+        "frame_number": 2101,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:46",
+        "frame_number": 2111,
+        "emotion": "happy"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:46",
+        "frame_number": 2111,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:46",
+        "frame_number": 2121,
+        "emotion": "contempt"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:48",
+        "frame_number": 2171,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:48",
+        "frame_number": 2191,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:49",
+        "frame_number": 2201,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:50",
+        "frame_number": 2231,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:50",
+        "frame_number": 2241,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:51",
+        "frame_number": 2251,
+        "emotion": "fear"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:53",
+        "frame_number": 2331,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:54",
+        "frame_number": 2341,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:54",
+        "frame_number": 2351,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:55",
+        "frame_number": 2361,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:55",
+        "frame_number": 2371,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:56",
+        "frame_number": 2381,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:56",
+        "frame_number": 2391,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:57",
+        "frame_number": 2401,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:57",
+        "frame_number": 2411,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:58",
+        "frame_number": 2421,
+        "emotion": "anger"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:59",
+        "frame_number": 2431,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:22:59",
+        "frame_number": 2441,
+        "emotion": "disgust"
+    },
+    {
+        "timestamp": "2024-12-17 16:23:00",
+        "frame_number": 2451,
+        "emotion": "disgust"
+    }
+]
