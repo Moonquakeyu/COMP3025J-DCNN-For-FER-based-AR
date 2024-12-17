@@ -40,7 +40,16 @@ python emotion_recognition.py
 
 ## Note  
 
-Please be aware that the case study topics may vary each year. Wishing all students a successful graduation in their senior year!
+Please be aware that the case study topics may vary each year. Wishing all students a successful graduation in their senior year!（edit on Nov 2024)
+
+## Update version
+Due to some important reason, we add the new version about this Model demo, in other branch. Here is the tips:
+- 1111.mp4 is a test video
+- emotion_result.csv and json is two version of the output
+- the running demo is the 'Untitled.ipynb', there are three block:
+  - the origin block which can run with video
+  - the second block is which can run with video and output is csv
+  - the third block is which can run with video and output is json, which is better to add them into RAG
 
 
 这个存储库用于com3025j ARVR案例研究代码，它可以在jupyter notebook的ptyhon环境中运行。
