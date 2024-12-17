@@ -3,7 +3,7 @@ import numpy as np
 from keras.models import load_model  
 
 # Load exist model
-model = load_model('PATH_TO_THE_MODEL')  
+model = load_model('model_keras.h5')  
 
 # Initial camera
 cap = cv2.VideoCapture(0)  
