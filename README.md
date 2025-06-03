@@ -1,6 +1,6 @@
 # COMP3025J-DCNN-For-FER-based-AR  
 
-This repository is for the COMP3025J ARVR case study code, which can run in a Python environment.  
+This repository is for the COMP3025J ARVR case study code, which can run in a Python environment. // It is a deep learning project for real-time emotion recognition in an Augmented reality (AR) environment
 
 ## Model Information  
 
